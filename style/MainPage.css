@@ -1,0 +1,64 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(24deg, rgba(150, 250, 207) 18%, rgba(106, 158, 136) 45%, rgba(54, 125, 95) 110%);
+}
+
+.logotext{
+  background-color: #717980;
+  color: white;
+  font-family: Helvetica, san-serif;
+  height: 40px;
+  width: 410px;
+  padding: 20px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  border-style: solid;
+  background: linear-gradient(10deg, rgba(79, 240, 84) 18%, rgba(107, 199, 123) 35%, rgba(49, 247, 82) 110%);
+  text-shadow: -1px 1px 0 #000,
+                          2px 2px 0 #000,
+                         1px -1px 0 #000,
+                        -1px -1px 0 #000;
+}
+
+.regtext{
+  font-family: Helvetica, san-serif;
+  text-align: center;
+}
+
+.welcomelog{
+  border-radius: 8px;
+  width: 250px;
+  height: 40px;
+  margin-bottom: 2px ;
+  font-size: 20px;
+}
+
+.signBTN{
+  border-radius: 10px;
+  color: white;
+  margin-top: 10px;
+  background-color: rgba(36, 71, 57);
+  width: 100px;
+  height: 40px;
+}
+
+.signupBTN{
+  background-color: rgba(36, 71, 57);
+  border-radius: 10px;
+  color: white;
+  width: 100px;
+  height: 40px;
+  margin-top: -10px;
+}
+
+.container{
+    background: linear-gradient(40deg, rgba(42, 150, 75) 25%, rgba(107, 199, 123) 65%, rgba(49, 247, 82) 110%);
+    height: 50vh;
+    width: 50vh;
+    margin: 10px auto;
+    border-radius: 10px;
+    text-align: center;
+}
